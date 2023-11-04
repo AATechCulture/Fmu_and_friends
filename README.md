@@ -8,7 +8,7 @@ ___________
 # AA Sharp
 
 ## Challenge Statement Addressed 🎯
-*  How can we as a company, improve clarity with customer luggage when boarding a plane?
+* ...
 
 ## Project Description 🤯
 **....at lease 3 sentences describing what the project does and how it works**
