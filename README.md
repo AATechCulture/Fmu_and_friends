@@ -5,7 +5,7 @@ This is a repository template containing all the information that needs to accom
 
 Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
 ___________
-# Project Name
+# AA SHARP
 
 ## Challenge Statement(s) Addressed 🎯
 **...include the challenge statement(s) the project worked to address**
@@ -32,16 +32,17 @@ Example:
 
 
 ### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
-* Team member X (AAdvantage No)
-* Team member Y (AAdvantage No)
-* Team member Z (AAdvantage No)
+* Jabulani Mzee (AAdvantage No)
+* Rigaud Luly (AAdvantage No)
+* Amauri Straford (AAdvantage No)
+* Jasmine Singleton ()
+* Abdul Seidu ()
 
 ### School Name 🏫
-The ABC School
+Florida Memorial University
 
 ### Team Name 🏷
-Coding Costars
+FMU and FRIENDS
 
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
