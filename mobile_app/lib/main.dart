@@ -14,8 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'AASharp',
       theme: appTheme,
-      //TODO: change title
-      home: const HomePage(title: 'American Airlines Luggage'),
+      home: const HomePage(title: 'Clarity and Precision'),
     );
   }
 }
