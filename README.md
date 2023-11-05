@@ -49,8 +49,8 @@ FMU and FRIENDS
 - [+] Team photo
 - [+] Team Slack channel
 - [+] Communication established with mentor
-- [ ] Repo creation from this template
-- [ ] Hangar registration
+- [+ ] Repo creation from this template
+- [+] Hangar registration
 - [+] Scavenger Hunt submission
 
 ### Project Checklist due before 10a Sunday 11/5 🏁
