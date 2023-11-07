@@ -60,10 +60,12 @@ Florida Memorial University
 FMU and FRIENDS
 
 ### Link to Video Pitch 📹
-**...point us to where you tell us about your solution 😄**
+...
 
 ### Link to Demo Presentation 📽
-**...point us to your PPT or Canva slides 😍**
+
+https://github.com/AATechCulture/Fmu_and_friends/assets/126820711/f75764b9-fe59-46b6-b384-8996303d475d
+
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
 - [+] Team photo
